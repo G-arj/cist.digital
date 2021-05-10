@@ -3,107 +3,87 @@
         {
             "source": "/",
             "destination": "https://blog.cesko.digital/2021/04/novinky",
-            "statusCode": 302
+            "permanent": false
         },
         {
             "source": "/21",
-            "destination": "https://blog.cesko.digital/2021/04/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2021/04/novinky"
         },
         {
             "source": "/20",
-            "destination": "https://blog.cesko.digital/2021/03/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2021/03/novinky"
         },
         {
             "source": "/19",
-            "destination": "https://blog.cesko.digital/2021/02/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2021/02/novinky"
         },
         {
             "source": "/18",
-            "destination": "https://blog.cesko.digital/2021/01/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2021/01/novinky"
         },
         {
             "source": "/17",
-            "destination": "https://blog.cesko.digital/2020/12/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/12/novinky"
         },
         {
             "source": "/16",
-            "destination": "https://blog.cesko.digital/2020/11/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/11/novinky"
         },
         {
             "source": "/15",
-            "destination": "https://blog.cesko.digital/2020/10/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/10/novinky"
         },
         {
             "source": "/14",
-            "destination": "https://blog.cesko.digital/2020/09/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/09/novinky"
         },
         {
             "source": "/13",
-            "destination": "https://blog.cesko.digital/2020/08/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/08/novinky"
         },
         {
             "source": "/12",
-            "destination": "https://blog.cesko.digital/2020/07/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/07/novinky"
         },
         {
             "source": "/11",
-            "destination": "https://blog.cesko.digital/2020/06/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/06/novinky"
         },
         {
             "source": "/10",
-            "destination": "https://blog.cesko.digital/2020/05/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/05/novinky"
         },
         {
             "source": "/9",
-            "destination": "https://blog.cesko.digital/2020/04/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/04/novinky"
         },
         {
             "source": "/8",
-            "destination": "https://blog.cesko.digital/2020/03/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/03/novinky"
         },
         {
             "source": "/7",
-            "destination": "https://blog.cesko.digital/2020/02/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/02/novinky"
         },
         {
             "source": "/6",
-            "destination": "https://blog.cesko.digital/2020/01/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2020/01/novinky"
         },
         {
             "source": "/5",
-            "destination": "https://blog.cesko.digital/2019/12/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2019/12/novinky"
         },
         {
             "source": "/4",
-            "destination": "https://blog.cesko.digital/2019/11/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2019/11/novinky"
         },
         {
             "source": "/2",
-            "destination": "https://blog.cesko.digital/2019/10/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2019/10/novinky"
         },
         {
             "source": "/1",
-            "destination": "https://blog.cesko.digital/2019/09/novinky",
-            "statusCode": 301
+            "destination": "https://blog.cesko.digital/2019/09/novinky"
         }
     ]
 }
