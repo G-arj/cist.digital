@@ -54,35 +54,35 @@
             "destination": "https://blog.cesko.digital/2020/05/novinky"
         },
         {
-            "source": "/(0)?9",
+            "source": "/(0?)9",
             "destination": "https://blog.cesko.digital/2020/04/novinky"
         },
         {
-            "source": "/(0)?8",
+            "source": "/(0?)8",
             "destination": "https://blog.cesko.digital/2020/03/novinky"
         },
         {
-            "source": "/(0)?7",
+            "source": "/(0?)7",
             "destination": "https://blog.cesko.digital/2020/02/novinky"
         },
         {
-            "source": "/(0)?6",
+            "source": "/(0?)6",
             "destination": "https://blog.cesko.digital/2020/01/novinky"
         },
         {
-            "source": "/(0)?5",
+            "source": "/(0?)5",
             "destination": "https://blog.cesko.digital/2019/12/novinky"
         },
         {
-            "source": "/(0)?4",
+            "source": "/(0?)4",
             "destination": "https://blog.cesko.digital/2019/11/novinky"
         },
         {
-            "source": "/(0)?2",
+            "source": "/(0?)2",
             "destination": "https://blog.cesko.digital/2019/10/novinky"
         },
         {
-            "source": "/(0)?1",
+            "source": "/(0?)1",
             "destination": "https://blog.cesko.digital/2019/09/novinky"
         }
     ]
