@@ -2,8 +2,12 @@
     "redirects": [
         {
             "source": "/",
-            "destination": "https://blog.cesko.digital/2021/10/novinky",
+            "destination": "https://blog.cesko.digital/2021/11/novinky",
             "permanent": false
+        },
+        {
+            "source": "/28",
+            "destination": "https://blog.cesko.digital/2021/11/novinky"
         },
         {
             "source": "/27",
