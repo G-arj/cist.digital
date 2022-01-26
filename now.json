@@ -2,8 +2,12 @@
     "redirects": [
         {
             "source": "/",
-            "destination": "https://blog.cesko.digital/2021/12/cist-digital-29",
+            "destination": "https://blog.cesko.digital/2022/01/cist-digital-30",
             "permanent": false
+        },
+         {
+            "source": "/30",
+            "destination": "https://blog.cesko.digital/2022/01/cist-digital-30"
         },
         {
             "source": "/29",
